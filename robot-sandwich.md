@@ -43,7 +43,7 @@
 
 16. Take the slice of bread with jelly coated on its surface and place it upon the slice of bread with Peanut butter with the jelly and the peanut butter facing each other.
 
-17. take the knife in your right hand and cut the sandwich corner to corner.
+17. Take the knife in your right hand and cut the sandwich corner to corner.
 
 18. Replace all ingredients in the places where they are stores long term after closing them.
 
