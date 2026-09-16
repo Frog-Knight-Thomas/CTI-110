@@ -38,7 +38,7 @@ class Button:
             return True
         else:
             return False
-       
+
 Pong = Button('TESTING', 40, 10, True)
 
 
